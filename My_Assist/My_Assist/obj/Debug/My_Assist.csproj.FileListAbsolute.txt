@@ -1,0 +1,25 @@
+F:\My Visual Studio Proj\C#\Win Proj\My_Assist\My_Assist\bin\Debug\My_Assist.exe.config
+F:\My Visual Studio Proj\C#\Win Proj\My_Assist\My_Assist\bin\Debug\My_Assist.exe
+F:\My Visual Studio Proj\C#\Win Proj\My_Assist\My_Assist\bin\Debug\My_Assist.pdb
+F:\My Visual Studio Proj\C#\Win Proj\My_Assist\My_Assist\obj\Debug\My_Assist.LoginFrm.resources
+F:\My Visual Studio Proj\C#\Win Proj\My_Assist\My_Assist\obj\Debug\My_Assist.Properties.Resources.resources
+F:\My Visual Studio Proj\C#\Win Proj\My_Assist\My_Assist\obj\Debug\My_Assist.csproj.GenerateResource.Cache
+F:\My Visual Studio Proj\C#\Win Proj\My_Assist\My_Assist\obj\Debug\My_Assist.exe
+F:\My Visual Studio Proj\C#\Win Proj\My_Assist\My_Assist\obj\Debug\My_Assist.pdb
+F:\My Visual Studio Proj\C#\Win Proj\My_Assist\My_Assist\obj\Debug\My_Assist.UserFrm.resources
+F:\My Visual Studio Proj\C#\Win Proj\My_Assist\My_Assist\obj\Debug\My_Assist.ToDoFrm.resources
+F:\My Visual Studio Proj\C#\Win Proj\My_Assist\My_Assist\obj\Debug\My_Assist.EditTask.resources
+F:\My Visual Studio Proj\C#\Win Proj\My_Assist\My_Assist\obj\Debug\My_Assist.TimeTableFrm.resources
+G:\zyt proj\Win Proj\My_Assist\My_Assist\bin\Debug\My_Assist.exe.config
+G:\zyt proj\Win Proj\My_Assist\My_Assist\obj\Debug\My_Assist.exe
+G:\zyt proj\Win Proj\My_Assist\My_Assist\obj\Debug\My_Assist.pdb
+G:\zyt proj\Win Proj\My_Assist\My_Assist\bin\Debug\My_Assist.exe
+G:\zyt proj\Win Proj\My_Assist\My_Assist\bin\Debug\My_Assist.pdb
+G:\zyt proj\Win Proj\My_Assist\My_Assist\obj\Debug\My_Assist.csprojResolveAssemblyReference.cache
+G:\zyt proj\Win Proj\My_Assist\My_Assist\obj\Debug\My_Assist.EditTask.resources
+G:\zyt proj\Win Proj\My_Assist\My_Assist\obj\Debug\My_Assist.LoginFrm.resources
+G:\zyt proj\Win Proj\My_Assist\My_Assist\obj\Debug\My_Assist.Properties.Resources.resources
+G:\zyt proj\Win Proj\My_Assist\My_Assist\obj\Debug\My_Assist.TimeTableFrm.resources
+G:\zyt proj\Win Proj\My_Assist\My_Assist\obj\Debug\My_Assist.ToDoFrm.resources
+G:\zyt proj\Win Proj\My_Assist\My_Assist\obj\Debug\My_Assist.UserFrm.resources
+G:\zyt proj\Win Proj\My_Assist\My_Assist\obj\Debug\My_Assist.csproj.GenerateResource.Cache
